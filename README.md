@@ -4,17 +4,17 @@
 
 ## imnhema's 100 Days of Livity.
 
-Welcome to my **100 Days of Livity** challenge that is inspired by the 100 Days of Cloud and the 100 Days of Code challenges. For the next 100 Days, I'm going to dedicate a few hours every day to learning new skills in cloud computing, cyber security, system administration, scripting, networking and DevOps. These are topics that I have been learning for a while albeit on and off and will be using this 100-day challenge to solidify my skills and build some momentum to get to the next level. This structured, day-to-day learning process will provide me with the discipline and knowledge necessary to advance in my career. 
+Welcome to my **100 Days of Livity** challenge, inspired by the [100 Days of Cloud](https://www.100daysofcloud.com/) challenge. Over the next 100 days, I am committed to dedicating a few hours each day to learning new skills in cloud computing and its related topics: cyber security, system administration, scripting, networking, and DevOps. These are topics that I have been learning sporadically, and this structured, day-to-day learning process will provide me with the discipline and knowledge necessary to improve my skills.
 
 **By the end of this challenge,  I hope to have**:
 
 - Mastered the fundamentals of Bash, PowerShell and Python scripting.
-- Gained a good working knowledge of Azure and Microsoft 365 basics and administration. 
-- Familiarised myself with DevOps processes.
+- Obtained working knowledge of Azure and Microsoft 365. 
+- Familiarised myself with DevOps practices such as IaC, CI/CD and Monitoring and Logging.
 - Gained fundamental Windows and Linux administration skills.
 - Improved my networking and cyber security (blue and red team) skills.
 
-This repository will be used to store any important files created or used during this challenge and I will also be posting daily posts about my progress on my [Blog](https://cyberlivity.com/).
+This repository will store any essential files created or used during this challenge, and I will also post daily posts about my progress on my [Blog](https://cyberlivity.com/).
 
 ## Stepping out the door
 
